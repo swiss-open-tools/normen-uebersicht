@@ -1,0 +1,4 @@
+# Überschreibt die Build-Quelle: baut aus dem lokalen Ordner statt von GitHub.
+services:
+  normen-uebersicht:
+    build: .

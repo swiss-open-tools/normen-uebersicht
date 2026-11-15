@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Normen-Übersicht Tiefbau Schweiz</title>
+  <meta name="description" content="Durchsuchbares Verzeichnis von Normen, Richtlinien und Vorgaben für Tief- und Strassenbau in der Schweiz – nur Metadaten mit Link zur offiziellen Quelle.">
+  <meta name="theme-color" content="#1f3a5f">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="brand">
+        <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="2" width="28" height="28" rx="6"/><path d="M8 22h16M8 16h16M8 10h10"/></svg>
+        <div>
+          <h1>Normen-Übersicht Tiefbau</h1>
+          <p class="sub">Schweiz · VSS · SIA · VSA · ASTRA · Bund · Kantone</p>
+        </div>
+      </div>
+      <button id="btnMerk" class="merk-toggle" aria-pressed="false" title="Nur Merkliste anzeigen">
+        <span aria-hidden="true">★</span> <span class="lbl">Merkliste</span> <span id="merkCount" class="badge">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="search" aria-label="Suche und Filter">
+      <label class="visually-hidden" for="q">Suche</label>
+      <input id="q" type="search" placeholder="Suchen: Nummer, Titel, Stichwort … z. B. «640 324», «Schacht», «Velo»" autocomplete="off" enterkeyhint="search">
+      <details id="filterBox" class="filters" open>
+        <summary>Filter <span id="activeFilters" class="muted"></span></summary>
+        <div class="filter-grid">
+          <label>Herausgeber<select id="fHerausgeber"><option value="">Alle</option></select></label>
+          <label>Thema<select id="fThema"><option value="">Alle</option></select></label>
+          <label>Ebene / Kanton<select id="fEbene"><option value="">Alle</option></select></label>
+          <label>Dokumenttyp<select id="fTyp"><option value="">Alle</option></select></label>
+          <label class="check"><input id="fKostenlos" type="checkbox"> nur kostenlos verfügbar</label>
+          <button id="btnReset" type="button" class="link">Filter zurücksetzen</button>
+        </div>
+      </details>
+    </section>
+
+    <div class="resultbar">
+      <p id="count" aria-live="polite"></p>
+      <div class="merk-actions" id="merkActions" hidden>
+        <button id="btnCopyMerk" type="button">Merkliste kopieren</button>
+        <button id="btnClearMerk" type="button" class="link">leeren</button>
+      </div>
+    </div>
+
+    <ul id="list" class="list"></ul>
+    <p id="empty" class="empty" hidden>Keine Einträge gefunden. Filter lockern oder anderen Suchbegriff versuchen.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <p><strong>Nur Verzeichnis, keine Normtexte.</strong> Erfasst sind ausschliesslich bibliografische Angaben
+      (Herausgeber, Nummer, Titel, Ausgabe) mit Link zur offiziellen Bezugs- oder Downloadquelle.
+      Massgebend ist immer die Quelle des Herausgebers. Angaben ohne Gewähr – Status und Ausgabe vor Gebrauch prüfen.</p>
+    <p class="muted">Datenstand: <span id="dataStand">–</span> · <span id="dataTotal">0</span> Einträge ·
+      <a href="https://github.com/swiss-open-tools/normen-uebersicht">Fehler melden / ergänzen</a></p>
+  </footer>
+
+  <template id="tplItem">
+    <li class="item">
+      <div class="item-head">
+        <span class="pub"></span>
+        <span class="num"></span>
+        <button class="star" type="button" aria-pressed="false" title="Auf Merkliste">☆</button>
+      </div>
+      <h2 class="title"><a target="_blank" rel="noopener"></a></h2>
+      <div class="meta"></div>
+      <div class="tags"></div>
+      <p class="checked muted"></p>
+    </li>
+  </template>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "normen-uebersicht",
+  "version": "0.1.0",
+  "description": "Durchsuchbares Verzeichnis von Normen, Richtlinien und Vorgaben für Tief- und Strassenbau in der Schweiz (nur Metadaten, Links zur offiziellen Quelle).",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.js",
+    "validate": "python3 scripts/validate.py",
+    "linkcheck": "node scripts/linkcheck.mjs",
+    "screenshot": "python3 scripts/screenshot.py"
+  }
+}

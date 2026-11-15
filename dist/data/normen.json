@@ -1,0 +1,4667 @@
+{
+  "$schema": "./normen.schema.json",
+  "schema_version": 1,
+  "stand": "2026-11-15",
+  "hinweis": "Nur bibliografische Metadaten mit Link zur offiziellen Quelle. Keine Normtexte. Angaben ohne Gewähr.",
+  "eintraege": [
+    {
+      "id": "sn-640-060",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 060",
+      "titel": "Leichter Zweiradverkehr; Grundlagen",
+      "ausgabe": "1994",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "640060"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40060»."
+    },
+    {
+      "id": "vss-40-065",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 065",
+      "titel": "Parkieren; Bedarfsermittlung und Standortwahl von Veloparkierungsanlagen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "40065"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40065»."
+    },
+    {
+      "id": "vss-40-066",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 066",
+      "titel": "Parkieren; Projektierung von Veloparkierungsanlagen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Geometrie/Projektierung"
+      ],
+      "stichworte": [
+        "40066"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40066»."
+    },
+    {
+      "id": "sn-640-070",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 070",
+      "titel": "Fussgängerverkehr; Grundnorm",
+      "ausgabe": "2009",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "640070"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40070»."
+    },
+    {
+      "id": "sn-640-075",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 075",
+      "titel": "Fussgängerverkehr - Hindernisfreier Verkehrsraum",
+      "ausgabe": "2014",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Geometrie/Projektierung"
+      ],
+      "stichworte": [
+        "640075"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40075»."
+    },
+    {
+      "id": "vss-40-201",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 201",
+      "titel": "Geometrisches Normalprofil; Grundabmessungen und Lichtraumprofil der Verkehrsteilnehmer, inkl. Anhänge 1 und 2",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "stichworte": [
+        "40201"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40201»."
+    },
+    {
+      "id": "vss-40-210",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 210",
+      "titel": "Entwurf des Strassenraumes; Vorgehen für die Entwicklung von Gestaltungs- und Betriebskonzepten",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung",
+        "Strassenraum/Nutzung"
+      ],
+      "stichworte": [
+        "40210"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40210»."
+    },
+    {
+      "id": "sn-640-211",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 211",
+      "titel": "Entwurf des Strassenraumes; Grundlagen",
+      "ausgabe": "2000",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung",
+        "Strassenraum/Nutzung"
+      ],
+      "stichworte": [
+        "640211"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40211»."
+    },
+    {
+      "id": "vss-40-240",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 240",
+      "titel": "Querungen für den Fussgänger- und leichten Zweiradverkehr; Grundlagen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "40240"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40240»."
+    },
+    {
+      "id": "vss-40-241",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 241",
+      "titel": "Querungen für den Fussgänger- und leichten Zweiradverkehr; Fussgängerstreifen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Markierung"
+      ],
+      "stichworte": [
+        "40241"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40241»."
+    },
+    {
+      "id": "vss-40-242",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 242",
+      "titel": "Querungen für den Langsamverkehr - Trottoirüberfahrten",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Randabschlüsse"
+      ],
+      "stichworte": [
+        "40242"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40242»."
+    },
+    {
+      "id": "sn-640-280",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 280",
+      "titel": "Parkieren - Grundlagen",
+      "ausgabe": "2013",
+      "status": null,
+      "themen": [
+        "Strassenraum/Nutzung"
+      ],
+      "stichworte": [
+        "640280"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40280»."
+    },
+    {
+      "id": "vss-40-302b",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 302B",
+      "titel": "Strasse und Gleiskörper; Terminologie",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "stichworte": [
+        "40302"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40302»."
+    },
+    {
+      "id": "vss-40-303",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 303",
+      "titel": "Strassenprojektierung - Entwurf von Hauptverkehrsstrassen innerorts",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "stichworte": [
+        "40303"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40303»."
+    },
+    {
+      "id": "vss-40-320",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 320",
+      "titel": "Dimensionierung des Strassenaufbaus; Äquivalente Verkehrslast",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40320"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40320»."
+    },
+    {
+      "id": "vss-40-324",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 324",
+      "titel": "Dimensionierung des Strassenaufbaus; Unterbau und Oberbau",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40324"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40324»."
+    },
+    {
+      "id": "sn-640-340a",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 340A",
+      "titel": "Strassenentwässerung; Grundlagen",
+      "ausgabe": "2003",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "640340"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40340»."
+    },
+    {
+      "id": "vss-40-347",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 347",
+      "titel": "Strassenentwässerung; Belastung von Strassenabwasser",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "stichworte": [
+        "40347"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40347»."
+    },
+    {
+      "id": "vss-40-350",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 350",
+      "titel": "Oberflächenentwässerung von Strassen; Regenintensitäten",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "40350"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40350»."
+    },
+    {
+      "id": "vss-40-353",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 353",
+      "titel": "Strassenentwässerung - Grundlagen zur Bestimmung des Abflusses",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "40353"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40353»."
+    },
+    {
+      "id": "vss-40-354",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 354",
+      "titel": "Strassenentwässerung; Entwässerung über das Bankett",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "40354"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40354»."
+    },
+    {
+      "id": "vss-40-355",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 355",
+      "titel": "Strassenentwässerung; Drainage",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "40355"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40355»."
+    },
+    {
+      "id": "vss-40-356",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 356",
+      "titel": "Strassenentwässerung; Ablauf, Strassenablauf",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "40356"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40356»."
+    },
+    {
+      "id": "vss-40-357",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 357",
+      "titel": "Strassenentwässerung - Bemessungsabfluss der Kanalisationen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "40357"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40357»."
+    },
+    {
+      "id": "vss-40-360",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 360",
+      "titel": "Strassenentwässerung, Sammelleitungen und Drainagen, Ausführungsvorschriften",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "40360"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40360»."
+    },
+    {
+      "id": "vss-40-361",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 361",
+      "titel": "Strassenentwässerung Behandlungsanlagen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "stichworte": [
+        "40361"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40361»."
+    },
+    {
+      "id": "vss-40-364",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 364",
+      "titel": "Strassenentwässerung; Sicherheitsmassnahmen zum Schutz der Gewässer vor wassergefährdenden Stoffen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "stichworte": [
+        "40364"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40364»."
+    },
+    {
+      "id": "vss-40-366",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 366",
+      "titel": "Strassenentwässerung; Aufsätze und Abdeckungen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "40366"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40366»."
+    },
+    {
+      "id": "vss-40-370",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 370",
+      "titel": "Absteckung",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Geodaten/Vermessung"
+      ],
+      "stichworte": [
+        "40370"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40370»."
+    },
+    {
+      "id": "sn-640-420",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 420",
+      "titel": "Asphalt; Grundnorm",
+      "ausgabe": "2015",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "640420"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40420»."
+    },
+    {
+      "id": "vss-40-430",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 430",
+      "titel": "Walzasphalt; Konzeption, Ausführung und Anforderungen an die eingebauten Schichten",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40430"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40430»."
+    },
+    {
+      "id": "vss-40-434",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 434",
+      "titel": "Prüfplan für Walzasphalt - Festlegung der durchzuführenden Prüfungen",
+      "ausgabe": "2024",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40434"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40434»."
+    },
+    {
+      "id": "vss-40-440c",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 440C",
+      "titel": "Gussasphalt; Konzeption, Ausführung und Anforderungen an die eingebauten Schichten",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40440"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40440»."
+    },
+    {
+      "id": "sn-640-461",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 461",
+      "titel": "Betondecken für Verkehrsflächen - Konzeption, Ausführung und Anforderungen an die eingebauten Schichten",
+      "ausgabe": "2014",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "640461"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40461»."
+    },
+    {
+      "id": "sn-640-480",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 480",
+      "titel": "Pflästerungen; Konzeption, Oberbaudimensionierung, Anforderungen und Ausführung",
+      "ausgabe": "2023",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "640480"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40480»."
+    },
+    {
+      "id": "sn-640-490",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 490",
+      "titel": "Gebundene Gemische und stabilisierte Böden: Grundnorm",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "640490"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40490»."
+    },
+    {
+      "id": "sn-640-535",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 535",
+      "titel": "Grabarbeiten; Ausführungsvorschriften",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Leitungsbau",
+        "Baustellen"
+      ],
+      "stichworte": [
+        "640535"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40535»."
+    },
+    {
+      "id": "vss-40-538b",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 538B",
+      "titel": "Grabarbeiten; Administrative Regelungen für das Verlegen von Leitungen im öffentlichen Grund",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Leitungsbau",
+        "Recht"
+      ],
+      "stichworte": [
+        "40538"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40538»."
+    },
+    {
+      "id": "sn-640-560",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 560",
+      "titel": "Passive Sicherheit im Strassenraum; Grundnorm",
+      "ausgabe": "2018",
+      "status": null,
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "640560"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40560»."
+    },
+    {
+      "id": "vss-40-561",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 561",
+      "titel": "Passive Sicherheit im Strassenraum; Fahrzeug-Rückhaltesysteme",
+      "ausgabe": "2021",
+      "status": null,
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "40561"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40561»."
+    },
+    {
+      "id": "vss-40-562",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 562",
+      "titel": "Passive Sicherheit im Strassenraum; Massnahmen in Siedlungsgebieten",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "40562"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40562»."
+    },
+    {
+      "id": "vss-40-568",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 568",
+      "titel": "Passive Sicherheit im Strassenraum - Geländer",
+      "ausgabe": "2024",
+      "status": null,
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "40568"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40568»."
+    },
+    {
+      "id": "sn-640-570",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 570",
+      "titel": "Lärmschutz an Strassen und Bahnen - Projektierung von Lärmhindernissen",
+      "ausgabe": "2017",
+      "status": null,
+      "themen": [
+        "Lärmschutz"
+      ],
+      "stichworte": [
+        "640570"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40570»."
+    },
+    {
+      "id": "vss-40-575",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 575",
+      "titel": "Erdarbeiten; Abbauklassen und Empfehlungen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Baustellen",
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40575"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40575»."
+    },
+    {
+      "id": "vss-40-577",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 577",
+      "titel": "Grünräume, Schutz von Bäumen; Projektierung, Umsetzung und Kontrolle von Schutzmassnahmen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Umwelt",
+        "Baustellen"
+      ],
+      "stichworte": [
+        "40577"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40577»."
+    },
+    {
+      "id": "vss-40-580",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 580",
+      "titel": "Ungebundene Fundationsschichten; Ausführung und Anforderungen an die eingebauten Schichten",
+      "ausgabe": "2023",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40580"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40580»."
+    },
+    {
+      "id": "vss-40-581",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 581",
+      "titel": "Erdbau, Boden - Bodenschutz und Bauen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Umwelt",
+        "Baustellen"
+      ],
+      "stichworte": [
+        "40581"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40581»."
+    },
+    {
+      "id": "vss-40-585",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 585",
+      "titel": "Verdichtung und Tragfähigkeit; Anforderungen",
+      "ausgabe": "2020",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "40585"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40585»."
+    },
+    {
+      "id": "sn-640-610b",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 610B",
+      "titel": "Umwelt; Umweltbaubegleitung samt Umweltbauabnahme",
+      "ausgabe": "2024",
+      "status": null,
+      "themen": [
+        "Umwelt",
+        "Baustellen"
+      ],
+      "stichworte": [
+        "640610"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40610»."
+    },
+    {
+      "id": "sn-640-741",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 741",
+      "titel": "Verkehrsflächen mit ungebundenem Oberbau; Grundnorm",
+      "ausgabe": "2006",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "640741"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40741»."
+    },
+    {
+      "id": "vss-40-822",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 822",
+      "titel": "Leiteinrichtungen; Art, Ausführung und Anordnung",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Signalisation",
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "40822"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40822»."
+    },
+    {
+      "id": "sn-640-829a",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 829A",
+      "titel": "Strassensignale; Signalisation Langsamverkehr, inkl. Anhang Signalisation Langsamverkehr, Abmessungen",
+      "ausgabe": "2006",
+      "status": null,
+      "themen": [
+        "Signalisation",
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "640829"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40829»."
+    },
+    {
+      "id": "sn-640-850a",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 850A",
+      "titel": "Markierungen; Ausgestaltung und Anwendungsbereiche",
+      "ausgabe": "2005",
+      "status": null,
+      "themen": [
+        "Markierung"
+      ],
+      "stichworte": [
+        "640850"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40850»."
+    },
+    {
+      "id": "vss-40-851",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 851",
+      "titel": "Besondere Markierungen; Anwendungsbereiche, Formen und Abmessungen",
+      "ausgabe": "2021",
+      "status": null,
+      "themen": [
+        "Markierung"
+      ],
+      "stichworte": [
+        "40851"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40851»."
+    },
+    {
+      "id": "sn-640-852",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 852",
+      "titel": "Markierungen; Taktil-visuelle Markierungen für blinde und sehbehinderte Fussgänger",
+      "ausgabe": "2005",
+      "status": null,
+      "themen": [
+        "Markierung",
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "640852"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40852»."
+    },
+    {
+      "id": "vss-40-880",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 880",
+      "titel": "Bushaltestellen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung",
+        "Strassenraum/Nutzung"
+      ],
+      "stichworte": [
+        "40880"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40880»."
+    },
+    {
+      "id": "vss-40-885",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 885",
+      "titel": "Temporäre Signalisation, Leiteinrichtungen - Signalisation von Baustellen auf Autobahnen und Autostrassen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Baustellen",
+        "Signalisation"
+      ],
+      "stichworte": [
+        "40885"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40885»."
+    },
+    {
+      "id": "vss-40-886",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "VSS 40 886",
+      "titel": "Baustellen; Signalisation von Baustellen auf Haupt- und Nebenstrassen",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Baustellen",
+        "Signalisation"
+      ],
+      "stichworte": [
+        "40886"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40886»."
+    },
+    {
+      "id": "sn-640-900",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 640 900",
+      "titel": "Erhaltungsmanagement; Grundnorm",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "640900"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*40900»."
+    },
+    {
+      "id": "sn-641-700",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SN 641 700",
+      "titel": "Strassenverkehrssicherheit; Grundnorm",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "641700"
+      ],
+      "url": "https://www.mobilityplatform.ch/de",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "VSS 41 001:2024-10, Gesamt-Normenverzeichnis nach Nummern"
+      },
+      "bemerkung": "Bezug im VSS-Shop (mobilityplatform.ch), Suche z. B. mit «*41700»."
+    },
+    {
+      "id": "vss-41-001",
+      "herausgeber": "VSS",
+      "herausgeber_name": "VSS Schweizerischer Verband der Strassen- und Verkehrsfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Verzeichnis",
+      "nummer": "VSS 41 001",
+      "titel": "Normenwerk des VSS – Nummerisches Verzeichnis nationaler und internationaler Normen",
+      "ausgabe": "2024-10",
+      "status": null,
+      "themen": [
+        "Recht"
+      ],
+      "stichworte": [
+        "Normenverzeichnis",
+        "Gesamtverzeichnis"
+      ],
+      "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://mobilityplatform.ch/fileadmin/mobilityplatform/normenpool/1184640_VSS-41001_Gesamt-Normenverzeichnis_nach_Nummern_2024-10.pdf",
+        "geprueft_am": "2026-11-15"
+      }
+    },
+    {
+      "id": "sia-103",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 103",
+      "titel": "Ordnung für Leistungen und Honorare der Bauingenieurinnen und Bauingenieure",
+      "ausgabe": "2020",
+      "status": null,
+      "themen": [
+        "Verträge/Honorare"
+      ],
+      "stichworte": [
+        "103"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-112",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 112",
+      "titel": "Modell Bauplanung",
+      "ausgabe": "2014",
+      "status": null,
+      "themen": [
+        "Verträge/Honorare"
+      ],
+      "stichworte": [
+        "112"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-118",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 118",
+      "titel": "Allgemeine Bedingungen für Bauarbeiten",
+      "ausgabe": "2013",
+      "status": null,
+      "themen": [
+        "Verträge/Honorare",
+        "Ausschreibung/Abrechnung"
+      ],
+      "stichworte": [
+        "118"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-118-190",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 118/190",
+      "titel": "Allgemeine Bedingungen für Kanalisationen - Vertragsbedingungen zur Norm SIA 190:2017",
+      "ausgabe": "2017",
+      "status": null,
+      "themen": [
+        "Verträge/Honorare",
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "118 190"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-118-267",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 118/267",
+      "titel": "Allgemeine Bedingungen für geotechnische Arbeiten",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Verträge/Honorare"
+      ],
+      "stichworte": [
+        "118 267"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-118-318",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 118/318",
+      "titel": "Allgemeine Bedingungen für Garten- und Landschaftsbau - Vertragsbedingungen zur Norm SIA 318:2009",
+      "ausgabe": "2009",
+      "status": null,
+      "themen": [
+        "Verträge/Honorare",
+        "Umwelt"
+      ],
+      "stichworte": [
+        "118 318"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-190",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 190",
+      "titel": "Kanalisationen",
+      "ausgabe": "2017",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "190"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-197-2",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 197/2",
+      "titel": "Projektierung Tunnel - Strassentunnel",
+      "ausgabe": "2023",
+      "status": null,
+      "themen": [
+        "Kunstbauten"
+      ],
+      "stichworte": [
+        "197 2"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-205",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 205",
+      "titel": "Verlegung von unterirdischen Leitungen - Räumliche Koordination und technische Grundlagen",
+      "ausgabe": "2003",
+      "status": null,
+      "themen": [
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "205"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-260",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 260",
+      "titel": "Grundlagen der Projektierung von Tragwerken",
+      "ausgabe": "2013",
+      "status": null,
+      "themen": [
+        "Kunstbauten"
+      ],
+      "stichworte": [
+        "260"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-261",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 261",
+      "titel": "Einwirkungen auf Tragwerke",
+      "ausgabe": "2020",
+      "status": null,
+      "themen": [
+        "Kunstbauten"
+      ],
+      "stichworte": [
+        "261"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-262",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 262",
+      "titel": "Betonbau",
+      "ausgabe": "2025",
+      "status": null,
+      "themen": [
+        "Kunstbauten"
+      ],
+      "stichworte": [
+        "262"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-267",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 267",
+      "titel": "Geotechnik",
+      "ausgabe": "2013",
+      "status": null,
+      "themen": [
+        "Kunstbauten",
+        "Baustellen"
+      ],
+      "stichworte": [
+        "267"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-269",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 269",
+      "titel": "Grundlagen der Erhaltung von Tragwerken",
+      "ausgabe": "2011",
+      "status": null,
+      "themen": [
+        "Kunstbauten"
+      ],
+      "stichworte": [
+        "269"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-318",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 318",
+      "titel": "Garten- und Landschaftsbau",
+      "ausgabe": "2009",
+      "status": null,
+      "themen": [
+        "Umwelt"
+      ],
+      "stichworte": [
+        "318"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-405",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 405",
+      "titel": "Geodaten zu Ver- und Entsorgungsleitungen",
+      "ausgabe": "2025",
+      "status": null,
+      "themen": [
+        "Geodaten/Vermessung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "405"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-430",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 430",
+      "titel": "Vermeidung und Entsorgung von Bauabfällen",
+      "ausgabe": "2023",
+      "status": null,
+      "themen": [
+        "Baustellen",
+        "Umwelt"
+      ],
+      "stichworte": [
+        "430"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-431",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Norm",
+      "nummer": "SIA 431",
+      "titel": "Entwässerung von Baustellen",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Baustellen",
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "stichworte": [
+        "431"
+      ],
+      "url": "https://shop.sia.ch/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15",
+        "notiz": "SIA-Verzeichnis «SIA Publikationen» (Preisliste)"
+      }
+    },
+    {
+      "id": "sia-publikationen",
+      "herausgeber": "SIA",
+      "herausgeber_name": "SIA Schweizerischer Ingenieur- und Architektenverein",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Verzeichnis",
+      "nummer": null,
+      "titel": "SIA Publikationen (Verzeichnis der Publikationen mit Preisen)",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Recht"
+      ],
+      "stichworte": [
+        "Normenverzeichnis",
+        "Preisliste"
+      ],
+      "url": "https://cms.sia.ch/de/api/getMedia/674",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://cms.sia.ch/de/api/getMedia/674",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Wird laufend aktualisiert (Stand im PDF angegeben)."
+    },
+    {
+      "id": "vsa-regenwetter-2019",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Abwasserbewirtschaftung bei Regenwetter (Gesamtpaket)",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "stichworte": [
+        "Regenwasser",
+        "Versickerung",
+        "Retention",
+        "STORM"
+      ],
+      "url": "https://vsa.ch/Mediathek/richtlinie-abwasserbewirtschaftung-bei-regenwetter-gesamtpaket/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/richtlinie-abwasserbewirtschaftung-bei-regenwetter-gesamtpaket/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Ersetzt u. a. die Richtlinie Regenwasserentsorgung (2002) und STORM."
+    },
+    {
+      "id": "vsa-regenwetter-modul-g",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Abwasserbewirtschaftung bei Regenwetter – Modul Gewässeruntersuchung (Modul G)",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "url": "https://vsa.ch/Mediathek/abwasserbewirtschaftung-bei-regenwetter-modul-g/",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/richtlinie-abwasserbewirtschaftung-bei-regenwetter-gesamtpaket/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Modul G als PDF frei verfügbar; gedruckt nur im Paket."
+    },
+    {
+      "id": "vsa-regenwasserentsorgung-2002",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie Regenwasserentsorgung",
+      "ausgabe": "2002",
+      "status": "ersetzt",
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Versickerung"
+      ],
+      "url": "https://vsa.ch/Mediathek/richtlinie-abwasserbewirtschaftung-bei-regenwetter-gesamtpaket/",
+      "kostenlos": null,
+      "quelle": {
+        "url": "https://vsa.ch/fachbereiche-cc/siedlungsentwaesserung/regenwetter/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Ersetzt durch «Abwasserbewirtschaftung bei Regenwetter» (2019)."
+    },
+    {
+      "id": "vsa-storm-2007",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Abwassereinleitungen in Gewässer bei Regenwetter (STORM): Richtlinie für die konzeptuelle Planung von Massnahmen",
+      "ausgabe": "2007",
+      "status": "ersetzt",
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "url": "https://vsa.ch/Mediathek/richtlinie-abwasserbewirtschaftung-bei-regenwetter-gesamtpaket/",
+      "kostenlos": null,
+      "quelle": {
+        "url": "https://vsa.ch/fachbereiche-cc/siedlungsentwaesserung/regenwetter/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Ersetzt durch «Abwasserbewirtschaftung bei Regenwetter» (2019)."
+    },
+    {
+      "id": "vsa-erhaltung-kanalisationen",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Ordner Erhaltung von Kanalisationen",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Kanalfernsehen",
+        "Unterhalt",
+        "Sanierung"
+      ],
+      "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Sammelordner; Teile mit Ausgaben 2007–2024."
+    },
+    {
+      "id": "vsa-erhaltung-teil-1",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie 1: Betrieblicher Unterhalt von Entwässerungsanlagen",
+      "ausgabe": "2014",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Kanalisation",
+        "Erhaltung"
+      ],
+      "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Teil des Ordners «Erhaltung von Kanalisationen»."
+    },
+    {
+      "id": "vsa-erhaltung-teil-2",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie 2: Zustandserfassung von Entwässerungsanlagen",
+      "ausgabe": "2007",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Kanalisation",
+        "Erhaltung"
+      ],
+      "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Teil des Ordners «Erhaltung von Kanalisationen»."
+    },
+    {
+      "id": "vsa-erhaltung-teil-3",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Merkblatt",
+      "nummer": null,
+      "titel": "Merkblatt 3: Schadencodierung und Datentransfer",
+      "ausgabe": "2019",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Kanalisation",
+        "Erhaltung"
+      ],
+      "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Teil des Ordners «Erhaltung von Kanalisationen»."
+    },
+    {
+      "id": "vsa-erhaltung-teil-4",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie 4: Zustandsbeurteilung von Entwässerungsanlagen",
+      "ausgabe": "2023",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Kanalisation",
+        "Erhaltung"
+      ],
+      "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Teil des Ordners «Erhaltung von Kanalisationen»."
+    },
+    {
+      "id": "vsa-erhaltung-teil-5",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Empfehlung",
+      "nummer": null,
+      "titel": "Empfehlung 5: Baulicher Unterhalt von Entwässerungsanlagen",
+      "ausgabe": "2024",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Kanalisation",
+        "Erhaltung"
+      ],
+      "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Teil des Ordners «Erhaltung von Kanalisationen»."
+    },
+    {
+      "id": "vsa-dichtheitspruefung-2023",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie: Dichtheitsprüfung von Entwässerungsanlagen",
+      "ausgabe": "2023",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "stichworte": [
+        "Abnahme"
+      ],
+      "url": "https://vsa.ch/Mediathek/richtlinie-dichtheitspruefung/",
+      "kostenlos": false,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/richtlinie-dichtheitspruefung/",
+        "geprueft_am": "2026-11-15"
+      }
+    },
+    {
+      "id": "vsa-quik-2022",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie QUIK – Qualität in der Kanalsanierung",
+      "ausgabe": "2022",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://vsa.ch/Mediathek/richtlinie-qualitaet-in-der-kanalsanierung-quik/",
+      "kostenlos": null,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erhaltung-von-kanalisationen-3/",
+        "geprueft_am": "2026-11-15"
+      }
+    },
+    {
+      "id": "vsa-hydraulische-beurteilung",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Empfehlung",
+      "nummer": null,
+      "titel": "Hydraulische Beurteilung in der Siedlungsentwässerung – Überprüfung von Entwässerungssystemen und Umgang mit Oberflächenabfluss",
+      "ausgabe": "2022-07-13",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Oberflächenabfluss",
+        "Hydraulik"
+      ],
+      "url": "https://vsa.ch/wp-content/uploads/2023/01/VSA-Empfehlung_Hydraulische-Beurteilung_Entwaesserungssysteme_d.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://vsa.ch/wp-content/uploads/2023/01/VSA-Empfehlung_Hydraulische-Beurteilung_Entwaesserungssysteme_d.pdf",
+        "geprueft_am": "2026-11-15"
+      }
+    },
+    {
+      "id": "vsa-leitfaden-gep-2025",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Leitfaden",
+      "nummer": null,
+      "titel": "Leitfaden GEP 2025",
+      "ausgabe": "2025",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Genereller Entwässerungsplan",
+        "GEP"
+      ],
+      "url": "https://vsa.ch/Mediathek/leitfaden-gep-2025/",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/leitfaden-gep-2025/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Ersetzt das GEP-Musterpflichtenheft (2010)."
+    },
+    {
+      "id": "vsa-gep-musterpflichtenheft-2010",
+      "herausgeber": "VSA",
+      "herausgeber_name": "VSA Verband Schweizer Abwasser- und Gewässerschutzfachleute",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Musterpflichtenheft",
+      "nummer": null,
+      "titel": "GEP-Musterpflichtenheft (mit Erläuterungen)",
+      "ausgabe": "2010",
+      "status": "ersetzt",
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "GEP"
+      ],
+      "url": "https://vsa.ch/Mediathek/erlaeuterungen-zum-gep-musterpflichtenheft/",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://vsa.ch/Mediathek/erlaeuterungen-zum-gep-musterpflichtenheft/",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Laut VSA nicht mehr aktuell; Nachfolger: Leitfaden GEP 2025."
+    },
+    {
+      "id": "astra-11001",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 11001",
+      "titel": "Normalprofile - Nationalstrassen 1. und 2. Klasse",
+      "ausgabe": "2022-12-19",
+      "status": "gültig",
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/CRXo51kI9--w/astra_11001_normalprofilerastplaetzeundraststaettendernationalst.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2022 V4.00; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-11003",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 11003",
+      "titel": "Normalprofile - Nationalstrassen 3. Klasse",
+      "ausgabe": "2025-12-17",
+      "status": "gültig",
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/nk3cRnGUWXK1/astra_11003_normalprofile_nationalstrassen_3_klasse.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2025 V1.00; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-11005",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 11005",
+      "titel": "Fahrzeugrückhaltesysteme",
+      "ausgabe": "2024-09-19",
+      "status": "gültig",
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/DPKIh4gcPjLZ/astra_11005.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2024 V4.00; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-11021",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 11021",
+      "titel": "Überwachung der Fahrbahn - Zustandserhebung und -bewertung",
+      "ausgabe": "2025-06-05",
+      "status": "gültig",
+      "themen": [
+        "Oberbau"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/lk6jq62bzjH8/astra_11021_ueberwachung_der_ahrbahn.zip",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2025 V1.01 (ZIP); gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-12008",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 12008",
+      "titel": "Anprall von Strassenfahrzeugen gegen Kunstbauten",
+      "ausgabe": "2025-01-16",
+      "status": "gültig",
+      "themen": [
+        "Kunstbauten",
+        "Verkehrssicherheit"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/3l8o6NqXBY2v/astra_12008_anprallvonstrassenfahrzeugenaufbauwerksteilevonkunst.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2025 V1.51; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-16140",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 16140",
+      "titel": "Betrieb NS - Planung und Koordination der provisorischen Verkehrsführung (TESI)",
+      "ausgabe": "2023-09-28",
+      "status": "gültig",
+      "themen": [
+        "Baustellen",
+        "Signalisation"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/myDxNnC39tFP/astra%2016140%20betrieb%20ns%20planung%20und%20koordination.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2023 V3.11; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-18002",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 18002",
+      "titel": "Checkliste Umwelt für Nationalstrassenprojekte",
+      "ausgabe": "2024-09-16",
+      "status": "gültig",
+      "themen": [
+        "Umwelt"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/AZxjYku3EFEe/astra_18002_checklisteumweltfuernichtuvp-pflichtigenationalstras.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2024 V2.10; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-18005",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Richtlinie",
+      "nummer": "ASTRA 18005",
+      "titel": "Strassenabwasserbehandlung an Nationalstrassen",
+      "ausgabe": "2023-12-15",
+      "status": "gültig",
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/inmQhxzES357/astra_18005_strassenabwasserbehandlungannationalstrassen2013v130.zip",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Version 2023 V1.31 (ZIP); gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-21001",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Fachhandbuch",
+      "nummer": "ASTRA 21001",
+      "titel": "Fachhandbuch Trassee / Umwelt (FHB T/U)",
+      "ausgabe": "2026-07-23",
+      "status": "gültig",
+      "themen": [
+        "Geometrie/Projektierung",
+        "Oberbau",
+        "Entwässerung",
+        "Umwelt"
+      ],
+      "url": "https://www.astra.admin.ch/de/21001-fachhandbuch-trassee-umwelt-fhb-tu",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/21001-fachhandbuch-trassee-umwelt-fhb-tu",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Ausgabe 2026 Juli; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-81002",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Dokumentation",
+      "nummer": "ASTRA 81002",
+      "titel": "Technische Beschreibung der Fahrzeugrückhaltesysteme",
+      "ausgabe": "2024-09-19",
+      "status": "gültig",
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "url": "https://www.astra.admin.ch/dam/de/sd-web/981Cmnrm4LLO/astra_81002_fahrzeugrueckhaltesysteme.zip",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/trassee",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "ZIP; gilt verbindlich für Nationalstrassen, für Kantonsstrassen oft als Referenz."
+    },
+    {
+      "id": "astra-18003",
+      "herausgeber": "ASTRA",
+      "herausgeber_name": "ASTRA Bundesamt für Strassen / BAFU Bundesamt für Umwelt",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Leitfaden",
+      "nummer": "ASTRA 18003",
+      "titel": "Leitfaden Strassenlärm",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Lärmschutz"
+      ],
+      "url": "https://www.bafu.admin.ch/dam/de/sd-web/Z6wi0iclYnKn/leitfaden_strassenlaermvollzugshilfefuerdiesanierung.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.astra.admin.ch/de/richtlinien",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Gemeinsame Publikation BAFU/ASTRA; Version auf der ASTRA-Seite nicht angegeben."
+    },
+    {
+      "id": "sr-814-20",
+      "herausgeber": "Bund",
+      "herausgeber_name": "Schweizerische Eidgenossenschaft (Systematische Rechtssammlung)",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Gesetz",
+      "nummer": "SR 814.20",
+      "titel": "Bundesgesetz über den Schutz der Gewässer (GSchG)",
+      "ausgabe": "1991-01-24",
+      "status": null,
+      "themen": [
+        "Gewässerschutz",
+        "Entwässerung",
+        "Recht"
+      ],
+      "stichworte": [
+        "GSchG"
+      ],
+      "url": "https://www.lexfind.ch/tolv/254875/de",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.lexfind.ch/tolv/254875/de",
+        "geprueft_am": "2026-11-15",
+        "notiz": "LexFind, Stand der Fassung 01.08.2025"
+      },
+      "bemerkung": "Ausgabe = Erlassdatum. Massgebend ist die aktuelle Fassung auf fedlex.admin.ch (SR 814.20)."
+    },
+    {
+      "id": "sr-814-201",
+      "herausgeber": "Bund",
+      "herausgeber_name": "Schweizerische Eidgenossenschaft (Systematische Rechtssammlung)",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Verordnung",
+      "nummer": "SR 814.201",
+      "titel": "Gewässerschutzverordnung (GSchV)",
+      "ausgabe": "1998-10-28",
+      "status": null,
+      "themen": [
+        "Gewässerschutz",
+        "Entwässerung",
+        "Recht"
+      ],
+      "stichworte": [
+        "GSchV"
+      ],
+      "url": "https://www.lexfind.ch/tolv/254876/de",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.lexfind.ch/tolv/254876/de",
+        "geprueft_am": "2026-11-15",
+        "notiz": "LexFind, Stand der Fassung 01.08.2025"
+      },
+      "bemerkung": "Ausgabe = Erlassdatum. Massgebend ist die aktuelle Fassung auf fedlex.admin.ch (SR 814.201)."
+    },
+    {
+      "id": "sr-741-21",
+      "herausgeber": "Bund",
+      "herausgeber_name": "Schweizerische Eidgenossenschaft (Systematische Rechtssammlung)",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Verordnung",
+      "nummer": "SR 741.21",
+      "titel": "Signalisationsverordnung (SSV)",
+      "ausgabe": "1979-09-05",
+      "status": null,
+      "themen": [
+        "Signalisation",
+        "Markierung",
+        "Recht"
+      ],
+      "stichworte": [
+        "SSV"
+      ],
+      "url": "https://www.admin.ch/opc/de/classified-compilation/19790235/201506010000/741.21.pdf",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.admin.ch/opc/de/classified-compilation/19790235/201506010000/741.21.pdf",
+        "geprueft_am": "2026-11-15",
+        "notiz": "LexFind, Stand der Fassung 08.04.2024 (admin.ch-PDF)"
+      },
+      "bemerkung": "Ausgabe = Erlassdatum. Massgebend ist die aktuelle Fassung auf fedlex.admin.ch (SR 741.21)."
+    },
+    {
+      "id": "sr-832-311-141",
+      "herausgeber": "Bund",
+      "herausgeber_name": "Schweizerische Eidgenossenschaft (Systematische Rechtssammlung)",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Verordnung",
+      "nummer": "SR 832.311.141",
+      "titel": "Verordnung über die Sicherheit und den Gesundheitsschutz der Arbeitnehmerinnen und Arbeitnehmer bei Bauarbeiten (BauAV)",
+      "ausgabe": "2021-06-18",
+      "status": null,
+      "themen": [
+        "Baustellen",
+        "Leitungsbau",
+        "Recht"
+      ],
+      "stichworte": [
+        "BauAV"
+      ],
+      "url": "https://www.lexfind.ch/tolv/251790/de",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.lexfind.ch/tolv/251790/de",
+        "geprueft_am": "2026-11-15",
+        "notiz": "LexFind, Stand der Fassung 01.01.2024"
+      },
+      "bemerkung": "Ausgabe = Erlassdatum. Massgebend ist die aktuelle Fassung auf fedlex.admin.ch (SR 832.311.141)."
+    },
+    {
+      "id": "sr-151-3",
+      "herausgeber": "Bund",
+      "herausgeber_name": "Schweizerische Eidgenossenschaft (Systematische Rechtssammlung)",
+      "ebene": "national",
+      "kanton": null,
+      "typ": "Gesetz",
+      "nummer": "SR 151.3",
+      "titel": "Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (BehiG)",
+      "ausgabe": "2002-12-13",
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Recht"
+      ],
+      "stichworte": [
+        "BehiG"
+      ],
+      "url": "https://www.lexfind.ch/tolv/197274/de",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://www.lexfind.ch/tolv/197274/de",
+        "geprueft_am": "2026-11-15",
+        "notiz": "LexFind, Stand der Fassung 01.07.2020"
+      },
+      "bemerkung": "Ausgabe = Erlassdatum. Massgebend ist die aktuelle Fassung auf fedlex.admin.ch (SR 151.3)."
+    },
+    {
+      "id": "tg-tba-222-401",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Richtlinie",
+      "nummer": "222.401",
+      "titel": "Richtlinie für die Anwendung der Randabschlüsse",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/171516/222.401_Richtlinie%20fuer%20die%20Anwendung%20der%20Randabschluesse.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-402",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Richtlinie",
+      "nummer": "222.402",
+      "titel": "Anforderungen an die Natursteinsorten- und Typen",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-411",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.411",
+      "titel": "Bundstein Typ 12 oder 11/13",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-412",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.412",
+      "titel": "Bordstein Typ 12 oder 11/13",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-413",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.413",
+      "titel": "Bundstein Typ 15 oder 14/16",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-414",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.414",
+      "titel": "Bordstein Typ 15 oder 14/16",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-421",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.421",
+      "titel": "Bordstein Typ 12 od. Typ 11/13 komb. mit Wasserstein Typ 12 od. Typ 11/13",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-422",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.422",
+      "titel": "Bordstein Typ 15 od. Typ 14/16 komb. mit Wasserstein Typ 12 od. Typ 11/13",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-431",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.431",
+      "titel": "Wasserführung; Schale 3-reihig mit Bundstein Typ 12",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-432",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.432",
+      "titel": "Trottoirüberfahrt (SNR 640 242); Rampe 5-reihig mit Bundstein Typ 15",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Velo/Fussverkehr"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-433",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.433",
+      "titel": "Trottoirüberfahrt (SNR 640 242); Rampe 2-reihig mit Bundstein Typ 15",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Velo/Fussverkehr"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-434",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.434",
+      "titel": "Trottoirüberfahrt (SNR 640 242); Rampe 1-reihig mit Bundstein Typ 15",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Velo/Fussverkehr"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-441",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.441",
+      "titel": "Stellplatte SN 8",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-442",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.442",
+      "titel": "Stellplatte SN 8 kombiniert mit Wasserstein Typ 12",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-451",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.451",
+      "titel": "Randstein RN 15",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-452",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.452",
+      "titel": "Randstein RN 15 kombiniert mit Wasserstein Typ 12",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-461",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.461",
+      "titel": "Randstein Spezial für Kreisel RN 30, evtl. kombiniert mit Wasserstein Typ 12",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-462",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.462",
+      "titel": "Randstein Spezial für Betonfahrbahn / -Kreisel RN 30 geklebt",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-463",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.463",
+      "titel": "Randstein Spezial für Betonfahrbahn / -Kreisel RN 15 geklebt",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-464",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.464",
+      "titel": "Randstein Spez. für Betonfahrb. / -Kreisel RN 15 geklebt (Überfahrten / -gänge)",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-465",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.465",
+      "titel": "Bus Sonderbord, Sonderbordstein mit Wasserführung, Anschlag 22 cm",
+      "ausgabe": "2021-05-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-466",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.466",
+      "titel": "Bus Sonderbord, Sonderbordstein mit Wasserführung, Anschlag 16 cm",
+      "ausgabe": "2021-05-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-471",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.471",
+      "titel": "Ersatz von Randabschlüssen",
+      "ausgabe": "2020-01-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-472",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.472",
+      "titel": "Fahrbahnrand ohne Abschlüsse",
+      "ausgabe": "2022-04-24",
+      "status": null,
+      "themen": [
+        "Randabschlüsse"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-481",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.481",
+      "titel": "Geometrie / Fugendetails; Betonierter Kreiselinnenring / Leitinsel",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-482",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.482",
+      "titel": "Geometrie / Fugendetails; Dilatationsfugen",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-483",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.483",
+      "titel": "Geometrie / Fugendetails; Kontraktionsfugen",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-484",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.484",
+      "titel": "Geometrie / Fugendetails; Übergang Beton auf Belag",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-491",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.491",
+      "titel": "Geometrie / Abschlüsse; Fussgängerschutzinsel normal",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung",
+        "Velo/Fussverkehr"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-492",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.492",
+      "titel": "Geometrie / Abschlüsse; Leitinsel / Fussgängerschutzinsel bei Kreisel",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-493",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.493",
+      "titel": "Geometrie / Abschlüsse; Kreiselinnenring",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-494",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.494",
+      "titel": "Geometrie / Abschlüsse; Trottoirüberfahrt in Hauptstrasse (SNR 640 242)",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Randabschlüsse",
+        "Geometrie/Projektierung",
+        "Velo/Fussverkehr"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-222-495",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "222.495",
+      "titel": "Amphibienausstieg (bei Schlammsammlern)",
+      "ausgabe": "2017-06-01",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Umwelt"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5688",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/128754/222.400_Inhaltsverzeichnis.pdf?fp=2",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Abschlüsse» (222.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-421",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.421",
+      "titel": "Entwässerungskonzepte",
+      "ausgabe": "2007-12-01",
+      "status": "in Überarbeitung",
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis. Gruppe 237.420 laut Inhaltsverzeichnis «in Überarbeitung»."
+    },
+    {
+      "id": "tg-tba-237-422",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.422",
+      "titel": "Vorplätze entlang Kantonsstrassen",
+      "ausgabe": "2007-12-01",
+      "status": "in Überarbeitung",
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis. Gruppe 237.420 laut Inhaltsverzeichnis «in Überarbeitung»."
+    },
+    {
+      "id": "tg-tba-237-423",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.423",
+      "titel": "Künstliches Randgefälle",
+      "ausgabe": "2007-12-01",
+      "status": "in Überarbeitung",
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis. Gruppe 237.420 laut Inhaltsverzeichnis «in Überarbeitung»."
+    },
+    {
+      "id": "tg-tba-237-431",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.431",
+      "titel": "Graben und Rohrleitungen; Ausführungs- und Sicherheitsbestimmungen",
+      "ausgabe": "2020-06-26",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau",
+        "Baustellen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-432",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.432",
+      "titel": "Grabenprofil U4 (Normalfall innerhalb Strassenbereich)",
+      "ausgabe": "2024-04-01",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-433",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.433",
+      "titel": "Grabenprofil U1 (innerhalb und ausserhalb Strassenbereich)",
+      "ausgabe": "2024-04-01",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-434",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.434",
+      "titel": "Grabenprofil V4 (Normalfall innerhalb Strassenbereich)",
+      "ausgabe": "2024-04-01",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-435",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.435",
+      "titel": "Grabenprofil V1 (innerhalb und ausserhalb Strassenbereich)",
+      "ausgabe": "2024-04-01",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-436",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.436",
+      "titel": "Grabenprofil für Drainageleitung (Hangwasser), Typ 1",
+      "ausgabe": "2020-06-26",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-437",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.437",
+      "titel": "Grabenprofil für Drainageleitung (Hangwasser), Typ 2",
+      "ausgabe": "2020-06-26",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Leitungsbau"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-441",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.441",
+      "titel": "Schachtabdeckungen",
+      "ausgabe": "2022-03-15",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Schacht"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-442",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.442",
+      "titel": "Kontrollschacht NW 600 / 800 mm mit Konus",
+      "ausgabe": "2007-12-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Schacht"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-443",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.443",
+      "titel": "Kontrollschacht NW 900 / 1100 mm mit Konus",
+      "ausgabe": "2007-12-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Schacht"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-444",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.444",
+      "titel": "Schachtüberbauten (für alle KS-Varianten)",
+      "ausgabe": "2011-01-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Schacht"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-451",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.451",
+      "titel": "Einlaufroste",
+      "ausgabe": "2022-03-15",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-452",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.452",
+      "titel": "Schlammsammler NW 700 mm in Fahrbahn",
+      "ausgabe": "2011-01-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-453",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.453",
+      "titel": "Schlammsammler NW 700 mm im Bankett",
+      "ausgabe": "2007-12-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-454",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.454",
+      "titel": "Hofsammler NW 600 mm",
+      "ausgabe": "2007-12-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-237-455",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "237.455",
+      "titel": "Einlauf- / Schluckschacht NW 600 mm",
+      "ausgabe": "2007-12-01",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "Schacht"
+      ],
+      "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5689",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Entwässerung» (237.400); Datum gemäss Inhaltsverzeichnis."
+    },
+    {
+      "id": "tg-tba-282-301",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.301",
+      "titel": "Grundsätze Abmessungen",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/50986/282.301_Grundsaetze_Abmessungen.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-302",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.302",
+      "titel": "Markierung Radstreifen mit Mittelinsel",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Markierung"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/176529/282.302_Markierung_Radstreifen_mit_Mittelinsel.pdf?fp=3",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-303",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.303",
+      "titel": "Markierung Radstreifen Beginn Ende mit Radweg und Kreisel",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr",
+        "Markierung"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/74720/282.303_Markierung_Radstreifen_Beginn_Ende_mit_Radweg_und_Kreisel.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-304",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.304",
+      "titel": "Einseitige Radführung Übergang mit Zufahrtsstrasse",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/50989/282.304_Einseitige_Radfuehrung_Uebergang_mit_Zufahrtsstrasse.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-305",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.305",
+      "titel": "Einseitige Radführung Querung mit Einmündung",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/36052/282.305_Einseitige_Radfuehrung_Querung_mit_Einmuendung.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-306",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.306",
+      "titel": "Einseitige Radführung Beginn Ende mit Mittelinsel",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/36053/282.306_Einseitige_Radfuehrung_Beginn_Ende_mit_Mittelinsel.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-307",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.307",
+      "titel": "Varianten im Kreisverkehr",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Velo/Fussverkehr"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/74721/282.307_Varianten_im_Kreisverkehr.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-282-308",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Normalie",
+      "nummer": "282.308",
+      "titel": "Markierung Bushaltestelle",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Markierung",
+        "Strassenraum/Nutzung"
+      ],
+      "stichworte": [
+        "Velo",
+        "Radstreifen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/128697/282.308_Markierung_Bushaltestelle.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/normen.html/4337/dcategory/5692",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Normalien «Langsamverkehr-Führung» (282.300). Datum auf der Downloadseite nicht angegeben."
+    },
+    {
+      "id": "tg-tba-aufgrabungsreglement",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Reglement",
+      "nummer": null,
+      "titel": "Aufgrabungsreglement",
+      "ausgabe": "2025-02-27",
+      "status": null,
+      "themen": [
+        "Leitungsbau",
+        "Baustellen",
+        "Recht"
+      ],
+      "stichworte": [
+        "Grabarbeiten",
+        "Werkleitungen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/173279/2025.02.27_Aufgrabungsreglement.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/aufgrabungsreglement.html/17314",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-benutzung-kantonsstrassen",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Weisung",
+      "nummer": null,
+      "titel": "Allgemeine Vorschriften für die Benutzung von Kantonsstrassen",
+      "ausgabe": "2025-02-27",
+      "status": null,
+      "themen": [
+        "Strassenraum/Nutzung",
+        "Recht"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/173280/Allgemeine%20Vorschriften%20fuer%20die%20Benutzung%20von%20Kantonsstrassen%2027.02.2025.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/aufgrabungsreglement.html/17314",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-baugrubenkonzept",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Weisung",
+      "nummer": null,
+      "titel": "Anforderung an Baugrubenkonzept für Baugesuche an Kantonsstrassen",
+      "ausgabe": "2023-08-14",
+      "status": null,
+      "themen": [
+        "Baustellen"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/178788/Anforderung%20an%20Baugrubenkonzept%20fuer%20Baugesuche%20an%20Kantonsstrassen%2014.08.2023.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5676",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-sichtzonen",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Merkblatt",
+      "nummer": null,
+      "titel": "Merkblatt Sichtzonen und Strassenabstände bei Kantonsstrassen",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung",
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "Sichtweiten",
+        "Bauabstand"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/191679/Merkblatt%20Sichtzonen%20und%20Strassenabstaende%20bei%20Kantonsstrassen.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5676",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-unterflurcontainer",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Merkblatt",
+      "nummer": null,
+      "titel": "Merkblatt Unterflurcontainer an Kantonsstrassen",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Strassenraum/Nutzung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/125830/Merkblatt%20Unterflurcontainer%20an%20Kantonsstrassen.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5676",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-strassenreklamen",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinien Strassenreklamen Kanton Thurgau",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Signalisation",
+        "Strassenraum/Nutzung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/35948/Richtlinien%20Strassenreklamen%20Kanton%20Thurgau.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5676",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-laermschutzwaende-unterhalt",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Weisung",
+      "nummer": null,
+      "titel": "Betrieblicher Unterhalt von Lärmschutzwänden",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Lärmschutz"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/179190/Betrieblicher%20Unterhalt%20von%20Laermschutzwaenden.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5676",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-belagswahl",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Richtlinie",
+      "nummer": null,
+      "titel": "Richtlinie Belagswahl auf Kantonsstrassen",
+      "ausgabe": "2025-10-14",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "Belag",
+        "Asphalt"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/181388/Richtlinie%20Belagswahl%20auf%20Kantonsstrassen%2014.10.2025.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5679",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-verkehrslastklassen",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Dokumentation",
+      "nummer": null,
+      "titel": "Strassennetz Verkehrslastklassen 2017",
+      "ausgabe": "2017",
+      "status": null,
+      "themen": [
+        "Oberbau"
+      ],
+      "stichworte": [
+        "T-Klasse",
+        "Dimensionierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/55905/Strassennetz%20Verkehrslastklassen%202017.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5679",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-kreisel-innenraum",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Merkblatt",
+      "nummer": null,
+      "titel": "Merkblatt Kreisel-Innenraumgestaltung",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung",
+        "Strassenraum/Nutzung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/62002/Merkblatt%20Kreisel-Innenraumgestaltung.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5679",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-ausnahmetransporte",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Weisung",
+      "nummer": null,
+      "titel": "Vorgaben bezüglich Ausnahmetransporte",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/171549/Vorgaben%20bezueglich%20Ausnahmetransporte.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5679",
+        "geprueft_am": "2026-11-01"
+      }
+    },
+    {
+      "id": "tg-tba-checkliste-strassenprojektierung",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Checkliste",
+      "nummer": null,
+      "titel": "Checkliste Anforderungen an die Strassenprojektierung",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/35961/Checkliste%20Anforderungen%20an%20die%20Strassenprojektierung.doc?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5680",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Word-Dokument (.doc)."
+    },
+    {
+      "id": "tg-tba-schleppkurven",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Vorlage",
+      "nummer": null,
+      "titel": "Schleppkurven Sattelzug Beilagen TG",
+      "ausgabe": "2020-06-24",
+      "status": null,
+      "themen": [
+        "Geometrie/Projektierung"
+      ],
+      "stichworte": [
+        "Schleppkurve"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/108235/Schleppkurven%20Sattelzug%20Beilagen%20TG%2024.06.2020.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/weisungen.html/4341/dcategory/5680",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Auch als DWG verfügbar."
+    },
+    {
+      "id": "tg-tba-strassenabwasser",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Vollzugshilfe",
+      "nummer": null,
+      "titel": "Vollzugsrichtlinie Umgang mit Strassenabwasser von Kantonsstrassen",
+      "ausgabe": "2021-07-09",
+      "status": null,
+      "themen": [
+        "Entwässerung",
+        "Gewässerschutz"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/187269/Vollzugsrichtlinie%20Umgang%20mit%20Strassenabwasser%20von%20Kantonsstrassen.pdf?fp=1",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/public/upload/assets/157350/237.400%20Inhaltsverzeichnis.pdf?fp=1",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Datum gemäss Inhaltsverzeichnis Normalien 237.400 (Stand 01.04.2024)."
+    },
+    {
+      "id": "tg-tba-passive-sicherheit",
+      "herausgeber": "TBA TG",
+      "herausgeber_name": "Kantonales Tiefbauamt Thurgau",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Leitfaden",
+      "nummer": null,
+      "titel": "Leitfaden passive Sicherheit auf Kantonsstrassen",
+      "ausgabe": null,
+      "status": null,
+      "themen": [
+        "Verkehrssicherheit"
+      ],
+      "stichworte": [
+        "FZRS",
+        "Leitplanke"
+      ],
+      "url": "https://tiefbauamt.tg.ch/public/upload/assets/136376/Leitfaden%20passive%20Sicherheit%20auf%20Kantonsstrassen.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://tiefbauamt.tg.ch/downloads/passive-sicherheit-auf-kantonsstrassen.html/14685",
+        "geprueft_am": "2026-11-01"
+      },
+      "bemerkung": "Dazu Checklisten 1–4 (FZRS, Geländer) auf derselben Seite."
+    },
+    {
+      "id": "tg-afu-wegleitung-gep",
+      "herausgeber": "AfU TG",
+      "herausgeber_name": "Kanton Thurgau, Amt für Umwelt",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Vollzugshilfe",
+      "nummer": null,
+      "titel": "Wegleitung GEP, Generelle Entwässerungsplanung (GEP)",
+      "ausgabe": "2013-12",
+      "status": null,
+      "themen": [
+        "Entwässerung"
+      ],
+      "stichworte": [
+        "GEP"
+      ],
+      "url": "https://umwelt.tg.ch/public/upload/assets/12777/Wegleitung_GEP.pdf?fp=2",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://umwelt.tg.ch/public/upload/assets/12777/Wegleitung_GEP.pdf?fp=2",
+        "geprueft_am": "2026-11-15"
+      }
+    },
+    {
+      "id": "tg-rb-725-1",
+      "herausgeber": "Kanton TG",
+      "herausgeber_name": "Kanton Thurgau (Grosser Rat)",
+      "ebene": "kanton",
+      "kanton": "TG",
+      "typ": "Gesetz",
+      "nummer": "RB 725.1",
+      "titel": "Gesetz über Strassen und Wege (StrWG)",
+      "ausgabe": "1992-09-14",
+      "status": null,
+      "themen": [
+        "Recht",
+        "Strassenraum/Nutzung"
+      ],
+      "stichworte": [
+        "StrWG"
+      ],
+      "url": "https://lexfind.ch/tolv/214378/de",
+      "kostenlos": true,
+      "quelle": {
+        "url": "https://lexfind.ch/tolv/214378/de",
+        "geprueft_am": "2026-11-15"
+      },
+      "bemerkung": "Ausgabe = Erlassdatum; LexFind-Fassung Stand 01.01.2018 – aktuelle Fassung im Thurgauer Rechtsbuch (rechtsbuch.tg.ch) prüfen."
+    }
+  ]
+}

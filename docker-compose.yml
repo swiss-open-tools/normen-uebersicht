@@ -1,0 +1,13 @@
+# Für «Deploy on Hostinger» (Docker-Hosting / VPS) und lokales `docker compose up --build`.
+# TODO vor Veröffentlichung: OWNER durch den echten GitHub-Namen ersetzen
+# (oder ein fertiges Image, z. B. ghcr.io/swiss-open-tools/normen-uebersicht:latest, eintragen).
+services:
+  normen-uebersicht:
+    build: https://github.com/swiss-open-tools/normen-uebersicht.git#main
+    # Lokal aus dem Arbeitsordner bauen:  docker compose -f docker-compose.yml -f docker-compose.local.yml up --build
+    ports:
+      - "${PORT:-8080}:8080"
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp

@@ -1,0 +1,12 @@
+{
+  "name": "Normen-Übersicht Tiefbau Schweiz",
+  "short_name": "Normen Tiefbau",
+  "description": "Verzeichnis von Normen und Richtlinien für Tief- und Strassenbau in der Schweiz (nur Metadaten).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#1f3a5f",
+  "lang": "de-CH",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
